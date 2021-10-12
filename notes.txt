@@ -1,0 +1,2 @@
+to install axios package :
+npm install --save axios vue-axios
